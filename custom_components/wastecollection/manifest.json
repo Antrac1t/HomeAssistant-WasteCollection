@@ -1,0 +1,9 @@
+{
+    "domain": "wastecollection",
+    "name": "Waste collection",
+    "version": "0.1",
+    "documentation": "https://github.com/Antrac1t/HomeAssistant-WasteCollection",
+    "issue_tracker": "https://github.com/Antrac1t/HomeAssistant-WasteCollection/issues",
+    "dependencies": [],
+    "codeowners": ["@Antrac1t"]
+}
