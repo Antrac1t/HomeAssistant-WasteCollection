@@ -4,6 +4,8 @@
 
 Application use json file to parse weeks for waste collection. 
 
+# Example od binary sensors  
+binary_sensor:
   - platform: wastecollection
     name: Komunál
     type: "komunal"
