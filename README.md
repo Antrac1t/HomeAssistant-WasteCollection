@@ -4,6 +4,7 @@
 
 Application use json file to parse weeks for waste collection. 
 
+```yaml
 # Example od binary sensors  
 binary_sensor:
   - platform: wastecollection
@@ -18,3 +19,4 @@ binary_sensor:
   - platform: wastecollection
     name: Bio
     type: "bio"
+```
