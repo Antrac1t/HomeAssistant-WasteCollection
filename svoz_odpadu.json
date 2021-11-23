@@ -1,0 +1,833 @@
+[{
+    "week": 1,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 2,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 3,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 4,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 5,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 6,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 7,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 8,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 9,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 10,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 11,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 12,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 13,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 14,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 15,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 16,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 17,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 18,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 19,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 20,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 21,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 22,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 23,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 24,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 25,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 26,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 27,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 28,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 29,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 30,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 31,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 32,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 33,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 34,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 35,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 36,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 37,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 38,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 39,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 40,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 41,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 42,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 43,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 44,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 45,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 46,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 47,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 48,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 49,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 50,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 1
+        }, {
+            "Typ": "papir",
+            "Status": 1
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}, {
+    "week": 51,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 1
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 0
+        }
+    ]
+}, {
+    "week": 52,
+    "Types": [{
+            "Typ": "komunal",
+            "Status": 0
+        }, {
+            "Typ": "plast",
+            "Status": 0
+        }, {
+            "Typ": "papir",
+            "Status": 0
+        }, {
+            "Typ": "bio",
+            "Status": 1
+        }
+    ]
+}]
