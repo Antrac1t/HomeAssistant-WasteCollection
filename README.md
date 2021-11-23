@@ -17,7 +17,7 @@ Then choose Components under HACS. Choose the menu in the upper right, and selec
 Clone this repository or download the source code as a zip file and add/merge the `custom_components/` folder with its contents in your configuration directory.
 
 ### Step 2: Create JSON file
-In repository is saved example of json file called svoz_odpadu.json. Define all weeks in year and assign them yours type of waste collection (1 to n types and Status)
+In repository is saved example of json file called svoz_odpadu.json. Define all weeks in year and assign them yours type of waste collection (1 to n types and Status). Save Json file in www folder of your HA. You can rename it if you want but needs to be change in download.py 
 ```yaml
 {
     "week": 1,
