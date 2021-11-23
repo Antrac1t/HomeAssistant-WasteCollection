@@ -17,7 +17,7 @@ Then choose Components under HACS. Choose the menu in the upper right, and selec
 Clone this repository or download the source code as a zip file and add/merge the `custom_components/` folder with its contents in your configuration directory.
 
 ### Step 2: Create JSON file
-In repository is save example of json file called svoz_odpadu.json. Define all weeks in year and assign them yours type of waste collection 
+In repository is saved example of json file called svoz_odpadu.json. Define all weeks in year and assign them yours type of waste collection 
 ```yaml
 {
     "week": 1,
